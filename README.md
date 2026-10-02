@@ -69,7 +69,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ares-mission-control.git
+   git clone https://github.com/jihadjp/ares-mission-control.git
    cd ares-mission-control
    ```
 

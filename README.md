@@ -1,4 +1,4 @@
-# 🚀 Ares Mission Control // Junior Astronaut Mission Trainer
+# 🚀 Junior Astronaut Mission Trainer
 
 <div align="center">
 
